@@ -1,1 +1,1 @@
-A Samurai mask inspired colorscheme
+A samurai mask inspired colorscheme
