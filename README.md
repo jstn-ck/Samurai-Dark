@@ -1,1 +1,1 @@
-# README
+A Samurai mask inspired colorscheme
