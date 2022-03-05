@@ -3,7 +3,7 @@
     "displayName": "Samurai Dark",
     "description": "A Samurai mask themed clean colorscheme",
     "publisher": "JustinKanwischer",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.65.0"
     },
