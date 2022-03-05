@@ -1,10 +1,20 @@
 {
-    "name": "samurai",
-    "displayName": "Samurai",
-    "description": "A Samurai mask themed colorscheme",
+    "name": "samurai-dark",
+    "displayName": "Samurai Dark",
+    "description": "A Samurai mask themed clean colorscheme",
+    "publisher": "JustinKanwischer",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
+    },
+    "author": {
+        "name": "Justin Kanwischer",
+        "email": "kanwischer.justinc@gmail.com",
+        "url": "https://github.com/jstn-ck/"
+    },
+    "repository": {
+        "url": "https://github.com/jstn-ck/",
+        "type": "git"
     },
     "categories": [
         "Themes"
@@ -12,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "samurai",
+                "label": "Samurai Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/samurai-color-theme.json"
             }
