@@ -6,7 +6,13 @@
 		"editor.foreground": "#CACACA", // Normal text
 		"activityBarBadge.background": "#E3A74C",
 		"sideBarTitle.foreground": "#FFCB6B",
-		"titleBar.activeBackground": "#27251a"
+		"titleBar.activeBackground": "#3E3737",
+		"activityBar.background": "#3E3737",
+		"focusBorder": "#666666",
+		"activityBar.activeFocusBorder": "#393939",
+		"activityBar.dropBorder": "#393939",
+		"statusBar.background": "#3E3737",
+		"gitDecoration.untrackedResourceForeground": "#ff0000" // Git untracked
 	},
 	"tokenColors": [
 		{
