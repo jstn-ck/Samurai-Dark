@@ -2,10 +2,11 @@
 	"name": "samurai",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#2F2F2F",
+		"editor.background": "#303030",
 		"editor.foreground": "#CACACA", // Normal text
 		"activityBarBadge.background": "#E3A74C",
-		"sideBarTitle.foreground": "#FFCB6B"
+		"sideBarTitle.foreground": "#FFCB6B",
+		"titleBar.activeBackground": "#27251a"
 	},
 	"tokenColors": [
 		{
@@ -26,7 +27,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#d8d8d8"
+				"foreground": "#d8d8d8" // e.g let i =
 			}
 		},
 		{
@@ -354,7 +355,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#CACACA"
 			}
 		},
 		{
