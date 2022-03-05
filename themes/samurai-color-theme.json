@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#2F2F2F",
-		"editor.foreground": "#CACACA",
+		"editor.foreground": "#CACACA", // Normal text
 		"activityBarBadge.background": "#E3A74C",
 		"sideBarTitle.foreground": "#FFCB6B"
 	},
@@ -87,7 +87,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#B7825B"
 			}
 		},
 		{
@@ -109,7 +109,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#926AB2"
+				"foreground": "#A284B9"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#926AB2"
+				"foreground": "#A284B9"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#DE982F" // Num, Bool
 			}
 		},
 		{
@@ -150,7 +150,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#FFCB6B" // Strings
 			}
 		},
 		{
@@ -189,7 +189,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#CACACA"
 			}
 		},
 		{
@@ -239,7 +239,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#937CA6"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#cacaca"
 			}
 		},
 		{
