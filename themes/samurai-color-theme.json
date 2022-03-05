@@ -6,8 +6,10 @@
 		"editor.foreground": "#CACACA", // Normal text
 		"sideBarTitle.foreground": "#FFCB6B",
 		"titleBar.activeBackground": "#3E3737",
-
 		"focusBorder": "#666666",
+
+		"list.activeSelectionBackground": "#534d4d",
+		"list.activeSelectionForeground": "#CACACA",
 
 		"activityBarBadge.background": "#E3A74C",
 		"activityBar.background": "#3E3737",
@@ -18,8 +20,10 @@
 
 		"editor.lineHighlightBorder": "#534d4d",	
 		"editor.selectionBackground": "#534d4d",
+		"editorGutter.addedBackground": "#59a153",
 
-		"gitDecoration.untrackedResourceForeground": "#ff0000" // Git untracked
+		"gitDecoration.untrackedResourceForeground": "#9c6a48", // Git untracked
+		
 	},
 	"tokenColors": [
 		{
@@ -149,7 +153,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#DE982F" // Num, Bool
+				"foreground": "#e6887c" // Num, Bool
 			}
 		},
 		{
@@ -164,7 +168,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#E3A74C" // Strings
+				"foreground": "#868686" // Strings
 			}
 		},
 		{
