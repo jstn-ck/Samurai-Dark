@@ -8,6 +8,8 @@
 		"titleBar.activeBackground": "#3E3737",
 		"focusBorder": "#666666",
 
+		"tab.activeBackground": "#413f3f",
+
 		"list.activeSelectionBackground": "#534d4d",
 		"list.activeSelectionForeground": "#CACACA",
 
