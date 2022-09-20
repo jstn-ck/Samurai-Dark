@@ -1,6 +1,6 @@
 A samurai mask inspired colorscheme
 
-## Feedback appreciated, lmk if you have some ideas to improve the scheme
+## Open for suggestions to improve the colorscheme
 
 # Screenshots
 
